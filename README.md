@@ -1,3 +1,4 @@
 # init-scripts
 
-[macOS](./macOS.md)
+- [macOS](./macOS.md)
+- [Ubuntu](./ubuntu.md)
