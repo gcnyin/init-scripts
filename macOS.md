@@ -25,6 +25,7 @@ brew install alfred
 
 - Docker
 - IntelliJ idea
+- [Vimac](https://vimacapp.com/). A productivity application that revolutionizes the way you navigate macOS.
 
 ## Install CLI application
 
